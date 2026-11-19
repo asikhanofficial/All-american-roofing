@@ -1,0 +1,6 @@
+{
+  "name": "All American Roofing",
+  "description": "Multi-page static website for All American Roofing, an Oakley, CA residential and commercial roofing contractor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
